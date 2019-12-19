@@ -242,7 +242,7 @@ Head
 
 ```
 
-If you consider the time complexity of removing an element from a linked list, once again the cost is not dependent on the number of nodes in the linked list but instead on the index of the node that we are removing.  So we can conclude that it is cheaper to add and remove elements to a beginning of a linked list than it is for an array to add and remove elements.  We can also conclude that it is cheaper to add and remove elements elements from the beginning of a linked list than it is to remove from the end.  To solve the latter problem, sometimes one has a pointer to the end of a linked list, called a tail.  Such a data structure is called a doubly linked list.
+If you consider the time complexity of removing an element from a linked list, once again the cost is not dependent on the number of nodes in the linked list but instead on the index of the node that we are removing.  So we can conclude that it is cheaper to add and remove elements to a beginning of a linked list than it is for an array to add and remove elements.  We can also conclude that it is cheaper to add and remove elements from the beginning of a linked list than it is to remove from the end.  To solve the latter problem, sometimes one has a pointer to the end of a linked list, called a tail.  Such a data structure is called a doubly linked list.
 
 ### Summary
 
