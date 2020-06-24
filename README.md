@@ -9,7 +9,7 @@ Linked lists solve some of the problems we ran into when talking about arrays.  
 
 
 ![](https://s3-us-west-2.amazonaws.com/curriculum-content/web-development/algorithms/passing-buck.jpg)
-> Hierarchy at an organization can be represented as a linked list, where each individual has one subordinate that he can point to.
+> Hierarchy at an organization can be represented as a linked list, where each individual has one subordinate that they can point to.
 
 Let's show a visual representation of a node.
 
